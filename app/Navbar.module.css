@@ -1,0 +1,11 @@
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(106, 107, 107);
+  margin-bottom: 5px;
+  padding: 10px;
+}
+.li {
+  color: aliceblue;
+  text-decoration: none;
+}
